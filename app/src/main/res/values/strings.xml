@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Employee Directory Application</string>
+    <string name="id">Id : </string>
+    <string name="age">Age : </string>
+    <string name="salary">Company : </string>
+    <string name="action_delete">Delete</string>
+    <string name="image">image</string>
+    <string name="search">Search employee, email.</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="no_data">No data</string>
+    <!-- thought of using it, but not used   <string name="clear_action">Do you want to clear storage?</string>-->
+    <string name="title">Employee List</string>
+</resources>
